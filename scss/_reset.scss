@@ -1,0 +1,11 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    width: auto;
+    background: linear-gradient(190deg, $color-adj-purple 10%, $color-adj-blue 90%);
+}

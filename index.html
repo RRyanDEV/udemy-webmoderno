@@ -1,13 +1,88 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <link type="text/css" rel="stylesheet" href="./styles/main.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Curso Web Moderno</title>
-</head>
-<body>
-    <div class="ball"></div>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="./libs/bootstrap/css/bootstrap.min.css"
+    />
+    <link type="text/css" rel="stylesheet" href="./scss/style.css" />
+    <script src="./libs/jquery/jquery-3.6.3.min.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Udemy - Curso Web Moderno</title>
+  </head>
+  <body>
+    <header>
+      <div class="container-fluid" id="header-container">
+        <div class="row" id="header-container">
+          <nav class="navbar navbar-expand-lg">
+            <button
+              class="navbar-toggler navbar-toggler-right"
+              type="button"
+              data-bs-toggle="collapse"
+              data-bs-target="#navbar"
+              aria-controls="navbarNavAltMarkup"
+              aria-expanded="false"
+              aria-label="Toggle navigation"
+            >
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse" id="navbar">
+              <ul class="nav navbar-nav mx-auto" id="navbar-content">
+                <li class="nav-item">
+                  <a class="nav-link" href="#section-sobre">Home</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+        </div>
+      </div>
+    </header>
+    <section id="section-sobre">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5 col-sm-12 pb-4">
+            <h1 id="section-sobre-title">Udemy</h1>
+            <h3 id="section-sobre-subtitle">Curso: Web Moderno Completo</h3>
+            <p id="section-sobre-description">
+              Portal contendo a lista dos exercícios dos módulos do curso.
+            </p>
+            <div class="container" id="button-main-container">
+              <a
+                type="button"
+                class="btn btn-outline-secondary"
+                id="button0"
+                href="https://github.com/RRyanDEV/webmoderno-course"
+                target="_blank"
+              >
+                <div class="d-flex flex-md-row">
+                  <div class="d-flex flex-md-row" id="button-img-container">
+                    <img
+                      class="img-fluid"
+                      src="./imgs/github2.svg"
+                      id="img-githubicon"
+                      alt="GithubLogo"
+                    />
+                  </div>
+                  Acesse o repositório no Github
+                </div>
+              </a>
+            </div>
+          </div>
+          <div class="col-md-7 col-sm-12">
+            <img
+              class="img-fluid"
+              id="img-main"
+              src="./imgs/about-primary.png"
+              alt="ITCoding"
+            />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <script src="./libs/bootstrap/js/bootstrap.bundle.min.js"></script>
+  </body>
 </html>
