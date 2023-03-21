@@ -60,7 +60,7 @@
 
 <a href=""><img src="https://img.shields.io/github/last-commit/rryandev/webmoderno-course?" height="22" alt="LastCommit"/></a>
 <a href=""><img src="https://img.shields.io/github/languages/code-size/rryandev/webmoderno-course?" height="22" alt="CodeSize"/></a>
-<a href=""><img src="https://img.shields.io/badge/version-2.0.0-140126?" height="22" alt="Version"/></a>
+<a href=""><img src="https://img.shields.io/badge/version-2.0.1-140126?" height="22" alt="Version"/></a>
 
 || [Conteúdo](#section-conteudo) || [Stack](#section-stack) || [Notas de versão](#section-changelog) || [Autores](#section-autores) ||
 
@@ -98,6 +98,17 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 ## Notas de versão
 
 </a>
+
+### v2.0.1.230321
+
+**Módulo 3 - Estrutura de Controle**
+
+- Tratamento do IF ELSE e ELSE IF
+- Estrutura e tratamento do Switch
+- Estrutura de repetição com While e Do/While
+- Estrutura e tratamento do For
+
+##
 
 ### v2.0.0.230314
 
