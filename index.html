@@ -6,8 +6,7 @@
     <link
       rel="stylesheet"
       type="text/css"
-      href="./libs/bootstrap/css/bootstrap.min.css"
-    />
+      href="./libs/bootstrap/css/bootstrap.min.css" />
     <link type="text/css" rel="stylesheet" href="./scss/style.css" />
     <script src="./libs/jquery/jquery-3.6.3.min.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -25,14 +24,17 @@
               data-bs-target="#navbar"
               aria-controls="navbarNavAltMarkup"
               aria-expanded="false"
-              aria-label="Toggle navigation"
-            >
+              aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="navbar-collapse collapse" id="navbar">
               <ul class="nav navbar-nav mx-auto" id="navbar-content">
                 <li class="nav-item">
                   <a class="nav-link" href="#section-sobre">Home</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#section-js">JavaScript
+                  </a>
                 </li>
               </ul>
             </div>
@@ -45,7 +47,8 @@
         <div class="row">
           <div class="col-md-5 col-sm-12 pb-4">
             <h1 id="section-sobre-title">Udemy</h1>
-            <h3 id="section-sobre-subtitle">Curso: Web Moderno Completo</h3>
+            <h3 id="section-sobre-subtitle">Curso Web Moderno Completo com
+              JavaScript 2022 + Projetos</h3>
             <p id="section-sobre-description">
               Portal contendo a lista dos exercícios dos módulos do curso.
             </p>
@@ -54,19 +57,19 @@
                 type="button"
                 class="btn btn-outline-secondary"
                 id="button0"
-                href="https://github.com/RRyanDEV/webmoderno-course"
-                target="_blank"
-              >
+                href="https://www.udemy.com/course/curso-web/"
+                target="_blank">
                 <div class="d-flex flex-md-row">
                   <div class="d-flex flex-md-row" id="button-img-container">
                     <img
                       class="img-fluid"
-                      src="./imgs/github2.svg"
-                      id="img-githubicon"
-                      alt="GithubLogo"
-                    />
+                      src="./imgs/Udemy-Logo.png"
+                      id="img-udemyicon"
+                      alt="UdemyLogo"
+                      height="30px"
+                      width="40px" />
                   </div>
-                  Acesse o repositório no Github
+                  Acesse a página do curso
                 </div>
               </a>
             </div>
@@ -75,14 +78,105 @@
             <img
               class="img-fluid"
               id="img-main"
-              src=""
-              alt=""
-            />
+              src="./imgs/banner-curso.jpg"
+              alt="BannerCurso" />
           </div>
         </div>
       </div>
     </section>
+    <section id="section-js">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-5 col-sm-12 pb-4">
+            <h1 id="section-sobre-title">JavaScript</h1>
+            <p id="section-sobre-description">
+              Seção onde contêm os fundamentos básicos de JavaScript puro.
+            </p>
+            <div class="cont-buttons">
+              <div class="buttons-collections-top">
+                <div id="button-main-container"
+                  alt="Fundamentos">
+                  <a
+                    type="button"
+                    class="btn btn-outline-secondary"
+                    id="button0"
+                    href="https://github.com/RRyanDEV/webmoderno-course/tree/main/conteudo/aulas/01_FUNDAMENTOS_JS"
+                    target="_blank">
+                    <div class="d-flex flex-md-row">
+                      01 - Fundamentos
+                    </div>
+                  </a>
+                </div>
 
+                <div id="button-main-container"
+                  alt="EstruturaDeControle">
+                  <a
+                    type="button"
+                    class="btn btn-outline-secondary"
+                    id="button0"
+                    href="https://github.com/RRyanDEV/webmoderno-course/tree/main/conteudo/aulas/02_ESTRUTdeCONTROLE_JS"
+                    target="_blank">
+                    <div class="d-flex flex-md-row">
+                      02 - Estrutura de Controle
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="buttons-collections-center">
+                <div id="button-main-container" alt="Função">
+                  <a
+                    type="button"
+                    class="btn btn-outline-secondary"
+                    id="button0"
+                    href
+                    target="_blank">
+                    <div class="d-flex flex-md-row">
+                      03 - Função
+                    </div>
+                  </a>
+                </div>
+              </div>
+              <div class="buttons-collections-bottom">
+                <div id="button-main-container"
+                  alt="Objeto">
+                  <a
+                    type="button"
+                    class="btn btn-outline-secondary"
+                    id="button0"
+                    href=""
+                    target="_blank">
+                    <div class="d-flex flex-md-row">
+                      04 - Objeto
+                    </div>
+                  </a>
+                </div>
+
+                <div id="button-main-container"
+                  alt="Array">
+                  <a
+                    type="button"
+                    class="btn btn-outline-secondary"
+                    id="button0"
+                    href=""
+                    target="_blank">
+                    <div class="d-flex flex-md-row">
+                      05 - Array
+                    </div>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-7 col-sm-12">
+            <img
+              class="img-fluid"
+              id="img-main"
+              src="./imgs/js-logo.png"
+              alt="JSlogo" />
+          </div>
+        </div>
+      </div>
+    </section>
     <script src="./libs/bootstrap/js/bootstrap.bundle.min.js"></script>
   </body>
 </html>

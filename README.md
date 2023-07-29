@@ -60,7 +60,7 @@
 
 <a href=""><img src="https://img.shields.io/github/last-commit/rryandev/webmoderno-course?" height="22" alt="LastCommit"/></a>
 <a href=""><img src="https://img.shields.io/github/languages/code-size/rryandev/webmoderno-course?" height="22" alt="CodeSize"/></a>
-<a href=""><img src="https://img.shields.io/badge/version-2.0.1-140126?" height="22" alt="Version"/></a>
+<a href=""><img src="https://img.shields.io/badge/version-2.0.2-230728?" height="22" alt="Version"/></a>
 
 || [Conteúdo](#section-conteudo) || [Stack](#section-stack) || [Notas de versão](#section-changelog) || [Autores](#section-autores) ||
 
@@ -98,6 +98,16 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 ## Notas de versão
 
 </a>
+
+### v2.0.2.230728
+
+- Update nos banners das seções existentes.
+- Removido as logos do Github usadas anteriormente.
+- Modificação na estilização da página.
+- Banners novos adicionados.
+- Ícones novos adicionados.
+
+##
 
 ### v2.0.1.230321
 

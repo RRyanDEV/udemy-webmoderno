@@ -1,0 +1,21 @@
+.cont-buttons{
+    flex-direction: column;
+    display: flex;
+    height: auto;
+    width: auto;
+}
+.buttons-collections-top{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.buttons-collections-center{
+    display: flex;
+    align-items: center;
+    padding-right: 0.5cm;
+    justify-content: center;
+}
+.buttons-collections-bottom{
+    @extend .buttons-collections-top;
+    padding-right: 1cm;
+}
