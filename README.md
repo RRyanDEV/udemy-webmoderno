@@ -60,7 +60,7 @@
 
 <a href=""><img src="https://img.shields.io/github/last-commit/rryandev/webmoderno-course?" height="22" alt="LastCommit"/></a>
 <a href=""><img src="https://img.shields.io/github/languages/code-size/rryandev/webmoderno-course?" height="22" alt="CodeSize"/></a>
-<a href=""><img src="https://img.shields.io/badge/version-2.1.2-230807?" height="22" alt="Version"/></a>
+<a href=""><img src="https://img.shields.io/badge/version-2.2.2-230807?" height="22" alt="Version"/></a>
 
 || [Conteúdo](#section-conteudo) || [Stack](#section-stack) || [Notas de versão](#section-changelog) || [Autores](#section-autores) ||
 
@@ -99,6 +99,16 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 
 </a>
 
+### v2.2.2.230919
+
+**Módulo 4 - Função**
+
+- Exemplos de Funções(Parâmetro Padrão, `this` e `bind`)
+
+*A CONTINUAR...*
+
+##
+
 ### v2.1.2.230807
 
 **Módulo 4 - Função**
@@ -106,7 +116,7 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 - Introdução sobre Funções em JavaScript.
 - Exemplos de Funções(Literal, Em Array, Em Variável...)
 
-A CONTINUAR...
+*A CONTINUAR...*
 
 ##
 
