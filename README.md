@@ -60,7 +60,7 @@
 
 <a href=""><img src="https://img.shields.io/github/last-commit/rryandev/webmoderno-course?" height="22" alt="LastCommit"/></a>
 <a href=""><img src="https://img.shields.io/github/languages/code-size/rryandev/webmoderno-course?" height="22" alt="CodeSize"/></a>
-<a href=""><img src="https://img.shields.io/badge/version-2.2.3-230921?" height="22" alt="Version"/></a>
+<a href=""><img src="https://img.shields.io/badge/version-2.2.4-230925?" height="22" alt="Version"/></a>
 
 || [Conteúdo](#section-conteudo) || [Stack](#section-stack) || [Notas de versão](#section-changelog) || [Autores](#section-autores) ||
 
@@ -99,40 +99,46 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 
 </a>
 
-### v2.2.3.230921
+### v3.3.0.230925
 
-**Módulo 4 - Função**
+**Módulo 3 - Função**
+
+- Desafio de transformar uma Classe em Funçåo Construtora.
+- Exemplos de Funções(Factory, Construtoras, IIFE...)
+- Atualização ReadME. Onde foi reorganizado o versionamento do repositório.
+
+*FINALIZADO*
+
+##
+
+### v3.2.0.230921
+
+**Módulo 3 - Função**
 
 - Exemplos de Funções Anônimas.
 - Exemplos de Arrow Function.
 - Exemplos de Callback
 
-*A CONTINUAR...*
-
 ##
 
-### v2.2.2.230919
+### v3.1.0.230919
 
-**Módulo 4 - Função**
+**Módulo 3 - Função**
 
 - Exemplos de Funções(Parâmetro Padrão, `this` e `bind`)
 
-*A CONTINUAR...*
-
 ##
 
-### v2.1.2.230807
+### v3.0.0.230807
 
-**Módulo 4 - Função**
+**Módulo 3 - Função**
 
 - Introdução sobre Funções em JavaScript.
 - Exemplos de Funções(Literal, Em Array, Em Variável...)
 
-*A CONTINUAR...*
-
 ##
 
-### v2.0.2.230728
+### v2.6.0.230728
 
 - Update nos banners das seções existentes.
 - Removido as logos do Github usadas anteriormente.
@@ -142,9 +148,9 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 
 ##
 
-### v2.0.1.230321
+### v2.5.0.230321
 
-**Módulo 3 - Estrutura de Controle**
+**Módulo 2 - Estrutura de Controle**
 
 - Tratamento do IF ELSE e ELSE IF
 - Estrutura e tratamento do Switch
@@ -153,9 +159,10 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 
 ##
 
-### v2.0.0.230314
+### v2.4.0.230314
 
-- Finalização do Módulo 2.
+**Módulo 2 - Estrutura de Controle**
+
 - Atualização do README.
 - Correção do versionamento.
 - Tipos de Operadores (Aritmeticos,Lógicos, Relacionais e Ternário).
@@ -164,18 +171,20 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 - Remoção da imagem presente na landing page.
 - Tratamento de erro (Try, Catch e Throw).
 
+*FINALIZADO*
+
 ##
 
-### v1.2.1.20230303
+### v2.3.0.20230303
 
 - Modificação na estrutura das pastas.
 - Criação da primeira estilização da landing page.
 
 ##
 
-### v1.2.0.20230301
+### v2.2.0.20230301
 
-**Continuação Módulo 2**
+**Módulo 2 - Estrutura de Controle**
 
 - Explicação sobre funções (Introdutório).
 - Complemento de declaração de variáveis.
@@ -183,9 +192,9 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 
 ##
 
-### v1.1.0.20231002
+### v2.1.0.20231002
 
-**Continuação Módulo 2**
+**Módulo 2 - Estrutura de Controle**
 
 - Tipagem da linguagem JS.
 - Tipos de Dados (number e booleans).
@@ -194,7 +203,7 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 
 ##
 
-### v1.0.0.20230702
+### v2.0.0.20230702
 
 - Aula introdutória ao Módulo 2 (Fundamentos JS).
 - Organização de Código.
@@ -203,7 +212,7 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 
 ##
 
-### v0.0.1.230205
+### v1.0.0.230205
 
 - Criação do repositório.
 - Primeira Aula, com desafios básicos, Sentenças, Bloco de Código e Trabalhando com Dados
