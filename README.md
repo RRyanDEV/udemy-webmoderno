@@ -60,7 +60,7 @@
 
 <a href=""><img src="https://img.shields.io/github/last-commit/rryandev/webmoderno-course?" height="22" alt="LastCommit"/></a>
 <a href=""><img src="https://img.shields.io/github/languages/code-size/rryandev/webmoderno-course?" height="22" alt="CodeSize"/></a>
-<a href=""><img src="https://img.shields.io/badge/version-2.2.4-230925?" height="22" alt="Version"/></a>
+<a href=""><img src="https://img.shields.io/badge/version-4.0.0-231002?" height="22" alt="Version"/></a>
 
 || [Conteúdo](#section-conteudo) || [Stack](#section-stack) || [Notas de versão](#section-changelog) || [Autores](#section-autores) ||
 
@@ -98,6 +98,16 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 ## Notas de versão
 
 </a>
+
+### v4.0.0.231002
+
+**Módulo 4 - Objeto**
+
+- Introdução à OO (Orientação a Objeto).
+- Revisão sobre oque é Objeto.
+- Formas de tratamento de Objeto.
+
+##
 
 ### v3.3.0.230925
 
@@ -140,11 +150,15 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 
 ### v2.6.0.230728
 
+**Módulo 2 - Estrutura de Controle**
+
 - Update nos banners das seções existentes.
 - Removido as logos do Github usadas anteriormente.
 - Modificação na estilização da página.
 - Banners novos adicionados.
 - Ícones novos adicionados.
+
+*FINALIZADO*
 
 ##
 
@@ -170,8 +184,6 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 - Tipos de Atribuições.
 - Remoção da imagem presente na landing page.
 - Tratamento de erro (Try, Catch e Throw).
-
-*FINALIZADO*
 
 ##
 
