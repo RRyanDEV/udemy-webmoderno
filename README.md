@@ -60,7 +60,7 @@
 
 <a href=""><img src="https://img.shields.io/github/last-commit/rryandev/webmoderno-course?" height="22" alt="LastCommit"/></a>
 <a href=""><img src="https://img.shields.io/github/languages/code-size/rryandev/webmoderno-course?" height="22" alt="CodeSize"/></a>
-<a href=""><img src="https://img.shields.io/badge/version-4.0.0-231002?" height="22" alt="Version"/></a>
+<a href=""><img src="https://img.shields.io/badge/version-4.1.0-231009?" height="22" alt="Version"/></a>
 
 || [Conteúdo](#section-conteudo) || [Stack](#section-stack) || [Notas de versão](#section-changelog) || [Autores](#section-autores) ||
 
@@ -98,6 +98,17 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 ## Notas de versão
 
 </a>
+
+### v4.1.0.231009
+
+**Módulo 4 - Objeto**
+
+- Notação Literal
+- Getters e Setters
+- Funções importantes que um Objeto tem.
+- Ajuste no direcionamento do módulo na página web.
+
+##
 
 ### v4.0.0.231002
 
