@@ -1,5 +1,5 @@
 <h1 align="center">Udemy - Web Moderno Completo com JavaScript 2022</h1>
-<p align=center><i align="center">Repositório contendo o conteúdo relevante das aulas do curso "Web Moderno Completo com JavaScript 2022 da Instituição Udemy.</i></p>
+<p align=center><i align="center">Repositório contendo o conteúdo relevante das aulas do curso "Web Moderno Completo com JavaScript 2022" da Instituição Udemy.</i></p>
 
 <br>
 
