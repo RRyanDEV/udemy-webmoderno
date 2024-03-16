@@ -99,6 +99,12 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 
 </a>
 
+### v4.2.0.231603
+
+**Módulo 4 - Objeto**
+
+- Herança de Objetos. 
+
 ### v4.1.0.231009
 
 **Módulo 4 - Objeto**
@@ -108,7 +114,6 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 - Funções importantes que um Objeto tem.
 - Ajuste no direcionamento do módulo na página web.
 
-##
 
 ### v4.0.0.231002
 
@@ -130,8 +135,6 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 
 *FINALIZADO*
 
-##
-
 ### v3.2.0.230921
 
 **Módulo 3 - Função**
@@ -140,7 +143,6 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 - Exemplos de Arrow Function.
 - Exemplos de Callback
 
-##
 
 ### v3.1.0.230919
 
@@ -148,7 +150,6 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 
 - Exemplos de Funções(Parâmetro Padrão, `this` e `bind`)
 
-##
 
 ### v3.0.0.230807
 
@@ -171,7 +172,6 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 
 *FINALIZADO*
 
-##
 
 ### v2.5.0.230321
 
@@ -182,7 +182,6 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 - Estrutura de repetição com While e Do/While
 - Estrutura e tratamento do For
 
-##
 
 ### v2.4.0.230314
 
@@ -196,14 +195,12 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 - Remoção da imagem presente na landing page.
 - Tratamento de erro (Try, Catch e Throw).
 
-##
 
 ### v2.3.0.20230303
 
 - Modificação na estrutura das pastas.
 - Criação da primeira estilização da landing page.
 
-##
 
 ### v2.2.0.20230301
 
@@ -213,7 +210,6 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 - Complemento de declaração de variáveis.
 - Usando variáveis em loop.
 
-##
 
 ### v2.1.0.20231002
 
@@ -224,7 +220,6 @@ Neste repositório fica todo o conteúdo que foi estudado no curso 'Curso Web Mo
 - Criação e Minupulação de Array (Introdutório).
 - Modificação no README.
 
-##
 
 ### v2.0.0.20230702
 
